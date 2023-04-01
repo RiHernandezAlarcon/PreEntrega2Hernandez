@@ -1,0 +1,15 @@
+.Nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    justify-items: center;
+    padding: 10px;
+    margin: 0px;
+    background-color: bisque;
+}
+
+p{
+    margin: 0px;
+}
