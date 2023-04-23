@@ -1,0 +1,12 @@
+.imagen{
+    height: 180px;
+    width: 80%;
+}
+.card{
+    padding: 10px;
+    margin: 10px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
